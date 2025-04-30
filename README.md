@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Wagh
 
-<!--
-**AdityaWagh06/AdityaWagh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Computer Science Student (AI/ML)  
+💡 Interested in AI, Machine Learning, Full Stack Development  
+🚀 Currently working on OCR-based document reader with FastAPI + React  
+🛠️ Skills: Python | JavaScript | React | FastAPI | Tailwind CSS | MongoDB  
+📫 Reach me: [adityawagh06@gmail.com](mailto:adityawagh06@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- **Cyberpunk OCR** — Image-to-text converter with structured Excel export  
+- **EmoNet-X** — Real-time emotion recognition system  
+- **Filler Word Replacer** — AI-powered speech transcript improver  
+
+---
+
+### 🌐 Let's Connect
+[LinkedIn](https://linkedin.com/in/adityawagh06) | [Twitter](https://twitter.com/adityawagh06) | [Portfolio](https://yourwebsite.com)
