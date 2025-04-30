@@ -8,7 +8,7 @@
 
 ---
 ### 📌Live Projects
-- **Educational website** -educational-website-1h2yl4frt-aditya-waghs-projects.vercel.app/
+- **Educational website** -https://educational-website-1h2yl4frt-aditya-waghs-projects.vercel.app/
 - **client's portfolio**  -https://kartiks-portfolio.vercel.app/ 
 
 ---
