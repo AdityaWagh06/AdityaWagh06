@@ -7,6 +7,11 @@
 📫 Reach me: [adityawagh06@gmail.com](mailto:adityawagh06@gmail.com)
 
 ---
+### 📌Live Projects
+- **Educational website** -educational-website-1h2yl4frt-aditya-waghs-projects.vercel.app/
+- **client's portfolio**  -https://kartiks-portfolio.vercel.app/ 
+
+---
 
 ### 📌 Projects
 - **Cyberpunk OCR** — Image-to-text converter with structured Excel export  
