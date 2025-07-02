@@ -1,10 +1,10 @@
 # Hi 👋 I'm Aditya Wagh
 
-🎓 3rd Year Computer Science Student (AI/ML)  
+🎓 Final Year Computer Science Student (AI/ML)  
 💡 Interested in AI, Machine Learning, Full Stack Development  
 🚀 Currently working on OCR-based document reader with FastAPI + React  
 🛠️ Skills: Python | JavaScript | React | FastAPI | Tailwind CSS | MongoDB  
-📫 Reach me: [adityawagh06@gmail.com](mailto:adityawagh06@gmail.com)
+📫 Reach me: [adityawagh2525@gmail.com](mailto:adityawagh06@gmail.com)
 
 ---
 ### 📌Live Projects
