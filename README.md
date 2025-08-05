@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Wagh</h1>
 
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=440&lines=Final+Year+CS+(AIML)+Student;AI+Engineer+%7C+Full+Stack+Developer;React+%7C+FastAPI+%7C+Python+%7C+GenAI+Builder" alt="Typing animation" />
+</h3>
 
 ---
 
@@ -13,10 +15,11 @@
 
 ## 🧠 About Me
 
-- 🎓 Final year B.Tech student in Computer Science (AI/ML) at VIIT, Pune
-- 🤖 AI/ML enthusiast focused on NLP, GenAI, Image Processing, and Real-Time Systems
-- 🛠️ Skilled in Python, React, FastAPI, and Transformer-based models
-- 📝 Research: *Contextual Filler Word Detection using BERT and Prosodic Features* (in progress)
+- 🎓 Final year B.Tech student in Computer Science (AIML) at VIIT, Pune  
+- 🤖 I build systems at the intersection of **AI, NLP, and Full Stack Dev**  
+- 🛠️ Stack: React, FastAPI, Python, Transformers, MongoDB  
+- 📝 Research: *Contextual Filler Word Detection using BERT and Prosodic Features*  
+- ✨ Known for: Solving problems creatively, building full products, & always learning
 
 ---
 
@@ -52,46 +55,44 @@
 
 ## 💼 Work Experience
 
-**BigBuddy Foundation (2025) 6 months **  
-- 🧾 Developed an OCR tool with Tesseract + OpenAI API for smart Image to Excel Smooth automation 
-- 👨‍🎓 Built an educational platform for student of age 6 to 16 with MERN stack with diverse skill programs
+**BigBuddy Foundation (2025) – 6 months**  
+- 🧾 Built a smart OCR tool (Tesseract + OpenAI API) to auto-extract structured Excel from documents  
+- 👨‍🎓 Created an educational MERN stack platform for students with tailored skill modules
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills at a Glance
 
-**Languages:** Python, JavaScript, Java, C++, SQL, HTML/CSS  
-**Libraries/Frameworks:** React, FastAPI, Flask, Node.js, Scikit-learn, TensorFlow, Hugging Face, TailwindCSS  
-**NLP & GenAI:** BERT, BART, Transformers, spaCy, NLTK  
-**Image Processing:** OpenCV, PIL  
-**Databases:** MongoDB, MySQL, Firebase, Supabase  
-**Tools:** Git, Docker, Postman, Jupyter, Cursor, VS Code  
-
----
-
-## 📈 GitHub Activity
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaWagh06&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWagh06&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaWagh06&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AdityaWagh06&theme=react-dark&hide_border=true)
+- 💻 **Languages:** Python, JavaScript, Java, C++, SQL  
+- 🌐 **Web:** React, FastAPI, Flask, Node.js, TailwindCSS  
+- 🔬 **AI/ML:** Transformers, Scikit-learn, TensorFlow, OpenCV, Hugging Face  
+- 📊 **Data & DBs:** MongoDB, MySQL, Firebase, Supabase  
+- 🧰 **Tools:** Docker, Git, Postman, VS Code, Jupyter, Cursor
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Selected – Round 3, Flipkart GRID 6.0 National Challenge (2024)
-- 💡 Finalist – Smart India Hackathon (Internal Round), VIIT (2024)
-- 📜 Coursera Certificates:  
-  `IBM Full Stack Developer` • `IBM AI Engineering` • `DSA by Infosys Springboard`
+- 🥇 Round 3 – **Flipkart GRID 6.0 National Challenge**  
+- 💡 Finalist – **Smart India Hackathon (Internal Round)**  
+- 📜 Certified – IBM AI Engineering • IBM Full Stack Dev • Infosys Springboard DSA
+
+---
+
+## 😄 Fun Facts
+
+- 🧠 I love reverse-engineering cool AI apps  
+- 🎮 I sometimes train ML models while gaming  
+- ✍️ I document my projects with clarity and love automating everything possible
 
 ---
 
 ## 📬 Let's Connect
 
-If you're working on AI/ML, NLP, or anything cutting-edge — let's collaborate!  
-Reach out via [LinkedIn](https://linkedin.com/in/aditya-wagh25) or [Email](mailto:adityawagh2525@email.com).
+If you're working on anything AI, NLP, education-tech, or data-heavy — I’d love to collaborate!  
+📧 [adityawagh2525@email.com](mailto:adityawagh2525@email.com)  
+🔗 [LinkedIn](https://linkedin.com/in/aditya-wagh25)
 
 ---
 
-> 💡 *"Building for the future, one AI project at a time."*
+> *"I don’t just build models — I build products powered by intelligence."*
