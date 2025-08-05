@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Wagh</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=440&lines=AI%2FML+Developer+%7C+Final+Year+Student;Building+AI+apps+that+solve+real+problems.;React%2C+FastAPI%2C+Deep+Learning%2C+GenAI+⚡">
-</h3>
+
 
 ---
 
