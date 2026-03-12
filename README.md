@@ -13,86 +13,111 @@
 
 ---
 
-## 🧠 About Me
+<h1 align="center">Aditya Wagh</h1>
 
-- 🎓 Final year B.Tech student in Computer Science (AIML) at VIIT, Pune  
-- 🤖 I build systems at the intersection of **AI, NLP, and Full Stack Dev**  
-- 🛠️ Stack: React, FastAPI, Python, Transformers, MongoDB  
-- 📝 Research: *Contextual Filler Word Detection using BERT and Prosodic Features*  
-- ✨ Known for: Solving problems creatively, building full products, & always learning
+<h3 align="center">
+AI Engineer | Full Stack Developer | Final Year Computer Science (AI & ML)
+</h3>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Building+AI+Driven+Applications;React+%7C+FastAPI+%7C+Python+Developer;Machine+Learning+%7C+NLP+%7C+GenAI;Full+Stack+AI+Product+Builder" />
+</p>
 
-## 🚀 Featured Projects
-
-### 🧠 AI / ML
-
-- 🔍 **NeuroQuery**  
-  Voice/text-based AI assistant to run SQL queries via NLP  
-  `Python • Scikit-learn • Flask • React`
-
-- 🗞️ **NewsGenie**  
-  Personalized news summarizer using BART + content recommender  
-  `Flask • React • Supabase • Transformers`
-
-- 🚨 **Fake News Detector**  
-  LLM-powered classification using BERT (93% accuracy)  
-  `Hugging Face • Python • Scikit-learn`
-
-- 💻 **Smart Image-to-Excel OCR Tool**  
-  Uploads images (bills, tables, docs) → extracts structured data using Tesseract + FastAPI + React + Excel export  
-  `OCR • FastAPI • React • OpenCV • ExcelJS`
-
-### 📦 Full Stack
-
-- 📚 [Educational Skill Website](https://educational-website-1h2yl4frt-aditya-waghs-projects.vercel.app/)  
-  MERN stack platform for students aged 6–16 with progress tracking
-
-- 🧑‍💼 [Client Portfolio](https://kartiks-portfolio.vercel.app/)  
-  Clean portfolio website built with React + TailwindCSS
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AdityaWagh06&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 💼 Work Experience
+## About
 
-**BigBuddy Foundation (2025) – 6 months**  
-- 🧾 Built a smart OCR tool (Tesseract + OpenAI API) to auto-extract structured Excel from documents  
-- 👨‍🎓 Created an educational MERN stack platform for students with tailored skill modules
+Final year Computer Science student specializing in Artificial Intelligence and Machine Learning at VIIT Pune.
+Focused on building intelligent applications combining machine learning with scalable web systems.
 
----
+Core interests include:
 
-## 🛠️ Skills at a Glance
-
-- 💻 **Languages:** Python, JavaScript, Java, C++, SQL  
-- 🌐 **Web:** React, FastAPI, Flask, Node.js, TailwindCSS  
-- 🔬 **AI/ML:** Transformers, Scikit-learn, TensorFlow, OpenCV, Hugging Face  
-- 📊 **Data & DBs:** MongoDB, MySQL, Firebase, Supabase  
-- 🧰 **Tools:** Docker, Git, Postman, VS Code, Jupyter, Cursor
+* Artificial Intelligence Systems
+* Natural Language Processing
+* Generative AI Applications
+* Full Stack AI Products
 
 ---
 
-## 🏆 Achievements
+## Technology Stack
 
-- 🥇 Round 3 – **Flipkart GRID 6.0 National Challenge**  
-- 💡 Finalist – **Smart India Hackathon (Internal Round)**  
-- 📜 Certified – IBM AI Engineering • IBM Full Stack Dev • Infosys Springboard DSA
+**Languages**
+
+Python • JavaScript • Java • C++ • SQL
+
+**Web Development**
+
+React • FastAPI • Flask • Node.js • TailwindCSS
+
+**AI / Machine Learning**
+
+Transformers • Scikit-learn • TensorFlow • OpenCV • Hugging Face
+
+**Databases**
+
+MongoDB • MySQL • Firebase • Supabase
+
+**Tools**
+
+Docker • Git • Postman • VS Code • Jupyter
 
 ---
 
-## 😄 Fun Facts
+## Selected Projects
 
-- 🧠 I love reverse-engineering cool AI apps  
-- 🎮 I sometimes train ML models while gaming  
-- ✍️ I document my projects with clarity and love automating everything possible
+**NeuroQuery**
+AI assistant that converts natural language queries into SQL for database access
+Stack: Python, Scikit-learn, Flask, React
+
+**NewsGenie**
+Personalized news summarization system using transformer models and recommendation algorithms
+Stack: Flask, React, Supabase, Hugging Face
+
+**Fake News Detector**
+NLP based classification system using BERT models
+Stack: Python, Hugging Face, Scikit-learn
+
+**Smart Image-to-Excel OCR Tool**
+Extracts structured data from images and exports to Excel automatically
+Stack: Tesseract OCR, FastAPI, React, OpenCV
 
 ---
 
-## 📬 Let's Connect
+## Experience
 
-If you're working on anything AI, NLP, education-tech, or data-heavy — I’d love to collaborate!  
-📧 [adityawagh2525@email.com](mailto:adityawagh2525@email.com)  
-🔗 [LinkedIn](https://linkedin.com/in/aditya-wagh25)
+**Project Developer Intern — BigBuddy Foundation**
+
+Developed an OCR based automation system for document data extraction and built a MERN stack educational platform for student learning modules.
 
 ---
 
-> *"I don’t just build models — I build products powered by intelligence."*
+## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaWagh06&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaWagh06&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=AdityaWagh06&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Contact
+
+Email: [adityawagh2525@email.com](mailto:adityawagh2525@email.com)
+
+LinkedIn
+https://linkedin.com/in/aditya-wagh25
+
+Portfolio
+https://aditya-wagh-portfolio-ksk5.vercel.app/
