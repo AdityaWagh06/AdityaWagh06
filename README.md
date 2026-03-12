@@ -1,18 +1,3 @@
-<h1 align="center">Hi 👋, I'm Aditya Wagh</h1>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=440&lines=Final+Year+CS+(AIML)+Student;AI+Engineer+%7C+Full+Stack+Developer;React+%7C+FastAPI+%7C+Python+%7C+GenAI+Builder" alt="Typing animation" />
-</h3>
-
----
-
-### 📍 Pune, India &nbsp;|&nbsp; 📧 [adityawagh2525@email.com](mailto:adityawagh2525@email.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Wagh-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aditya-wagh25)
-[![GitHub](https://img.shields.io/badge/GitHub-AdityaWagh06-black?style=flat-square&logo=github)](https://github.com/AdityaWagh06)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=vercel)](https://aditya-wagh-portfolio-ksk5.vercel.app/)
-
----
-
 <h1 align="center">Aditya Wagh</h1>
 
 <h3 align="center">
