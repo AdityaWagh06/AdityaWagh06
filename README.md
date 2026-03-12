@@ -14,12 +14,13 @@ AI Engineer | Full Stack Developer | Final Year Computer Science (AI & ML)
 
 ---
 
-## About
+# About
 
-Final year Computer Science student specializing in Artificial Intelligence and Machine Learning at VIIT Pune.
-Focused on building intelligent applications combining machine learning with scalable web systems.
+Final year Computer Science student specializing in **Artificial Intelligence and Machine Learning at VIIT Pune**.
 
-Core interests include:
+Focused on building **intelligent applications that combine machine learning with scalable web systems.**
+
+### Core Interests
 
 * Artificial Intelligence Systems
 * Natural Language Processing
@@ -28,59 +29,90 @@ Core interests include:
 
 ---
 
-## Technology Stack
+# Technology Stack
 
-**Languages**
+### Languages
 
 Python • JavaScript • Java • C++ • SQL
 
-**Web Development**
+### Web Development
 
 React • FastAPI • Flask • Node.js • TailwindCSS
 
-**AI / Machine Learning**
+### AI / Machine Learning
 
 Transformers • Scikit-learn • TensorFlow • OpenCV • Hugging Face
 
-**Databases**
+### Databases
 
 MongoDB • MySQL • Firebase • Supabase
 
-**Tools**
+### Tools
 
 Docker • Git • Postman • VS Code • Jupyter
 
 ---
 
-## Selected Projects
+# Selected Projects
 
-**NeuroQuery**
-AI assistant that converts natural language queries into SQL for database access
-Stack: Python, Scikit-learn, Flask, React
+### NeuroQuery
 
-**NewsGenie**
-Personalized news summarization system using transformer models and recommendation algorithms
-Stack: Flask, React, Supabase, Hugging Face
+AI assistant that converts **natural language queries into SQL** for database access.
 
-**Fake News Detector**
-NLP based classification system using BERT models
-Stack: Python, Hugging Face, Scikit-learn
+**Tech Stack**
 
-**Smart Image-to-Excel OCR Tool**
-Extracts structured data from images and exports to Excel automatically
-Stack: Tesseract OCR, FastAPI, React, OpenCV
+`Python • Scikit-learn • Flask • React`
 
 ---
 
-## Experience
+### NewsGenie
 
-**Project Developer Intern — BigBuddy Foundation**
+Personalized news summarization system built using **transformer models with a recommendation system**.
 
-Developed an OCR based automation system for document data extraction and built a MERN stack educational platform for student learning modules.
+**Tech Stack**
+
+`Flask • React • Supabase • Hugging Face`
 
 ---
 
-## GitHub Statistics
+### Fake News Detector
+
+NLP-based system for **fake news classification using BERT models**.
+
+**Tech Stack**
+
+`Python • Hugging Face • Scikit-learn`
+
+---
+
+### Smart Image-to-Excel OCR Tool
+
+System that extracts **structured data from document images and exports it to Excel automatically**.
+
+**Tech Stack**
+
+`Tesseract OCR • FastAPI • React • OpenCV`
+
+---
+
+# Experience
+
+### Research Intern — IIT Bombay (FOSSEE Project)
+
+* Contributed to the development of **Osdag Bridge**, an open-source software for bridge analysis and design
+* Implemented and optimized components using **Python (PySide6)**
+* Worked with developers and domain experts to improve system usability and performance
+
+---
+
+### Project Developer Intern — BigBuddy Foundation
+
+* Built an **OCR-based automation system** to extract structured Excel data from documents
+* Developed a **MERN stack educational platform** with learning modules for students
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaWagh06&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -89,7 +121,7 @@ Developed an OCR based automation system for document data extraction and built 
 
 ---
 
-## Activity
+# Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=AdityaWagh06&theme=tokyonight&hide_border=true"/>
@@ -97,12 +129,13 @@ Developed an OCR based automation system for document data extraction and built 
 
 ---
 
-## Contact
+# Contact
 
-Email: [adityawagh2525@email.com](mailto:adityawagh2525@email.com)
+**Email**
+[adityawagh2525@email.com](mailto:adityawagh2525@email.com)
 
-LinkedIn
+**LinkedIn**
 https://linkedin.com/in/aditya-wagh25
 
-Portfolio
-https://aditya-wagh-portfolio-ksk5.vercel.app/
+**Portfolio**
+https://adityawagh.online
