@@ -140,14 +140,11 @@ Built for and deployed at BigBuddy Foundation.
 
 ---
 
-## Contribution Snake
+## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="900"/>
+  <img src="https://ghchart.rshah.org/AdityaWagh06" alt="GitHub Contribution Graph" width="900"/>
 </p>
-
-<!-- To activate the snake: create .github/workflows/snake.yml in this repo.
-See https://github.com/Platane/snk for setup instructions. -->
 
 ---
 
