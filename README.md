@@ -140,18 +140,14 @@ Built for and deployed at BigBuddy Foundation.
 
 ---
 
-## Contribution Activity
+## Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaWagh06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" width="900"/>
 </p>
 
-<!--
-This replaces the old snake animation. It looks and feels similar — a visual
-of your commit activity — but it's rendered live from an image API on every
-page load, same as the stats/streak cards above. No GitHub Actions workflow
-needed, so it can't silently stop updating or freeze on a stale frame.
--->
+<!-- To activate the snake: create .github/workflows/snake.yml in this repo.
+See https://github.com/Platane/snk for setup instructions. -->
 
 ---
 
