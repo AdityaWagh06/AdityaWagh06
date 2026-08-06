@@ -140,19 +140,17 @@ Built for and deployed at BigBuddy Foundation.
 
 ---
 
-## LeetCode Stats
+## Contribution Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AdityaWagh06?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaWagh06&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
 </p>
 
 <!--
-Replace "AdityaWagh06" above with your actual LeetCode username (it may differ
-from your GitHub username). This card is generated live from an image API on
-every page load — no workflow, no cron job, nothing that can silently stop
-running. If you'd rather use a different provider, leetcode-stats-card by
-JoshiSaurabh or the streak-stats variant at leetcode.card work as drop-in
-alternatives with the same "always live, never breaks" property.
+This replaces the old snake animation. It looks and feels similar — a visual
+of your commit activity — but it's rendered live from an image API on every
+page load, same as the stats/streak cards above. No GitHub Actions workflow
+needed, so it can't silently stop updating or freeze on a stale frame.
 -->
 
 ---
