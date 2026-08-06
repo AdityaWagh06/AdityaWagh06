@@ -143,8 +143,16 @@ Built for and deployed at BigBuddy Foundation.
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/AdityaWagh06" alt="GitHub Contribution Graph" width="900"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaWagh06&theme=github_dark" alt="GitHub Contribution Graph" width="900"/>
 </p>
+
+<!--
+Note: no free hosted service reproduces GitHub's native graph 100% pixel-for-pixel
+(the exact "X contributions in the last year" header + Mon/Wed/Fri labels + legend
+combo only exists on your actual profile page, since GitHub doesn't expose that
+widget as a plain image). This card is the closest live, no-setup match — dark
+theme, same grid, pulls straight from your GitHub activity on every page load.
+-->
 
 ---
 
