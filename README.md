@@ -42,7 +42,7 @@ open-source research at IIT Bombay's FOSSEE lab.
 I'm currently looking for **full-time AI/ML or full-stack roles** and open to
 **freelance projects** in AI product development.
 
-> **Currently building:** [fill this in]
+> **Currently building:** [CareerPilot AI](https://github.com/AdityaWagh06) — an AI-powered career coaching SaaS with an India-first focus (Razorpay payments), featuring a Resume Analyzer, Job Match, AI Interview, and a multi-agent Ultra tier.
 
 ---
 
@@ -137,22 +137,6 @@ Built for and deployed at BigBuddy Foundation.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AdityaWagh06&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="./profile-metrics/contribution-calendar.svg" alt="GitHub Contribution Graph" width="900"/>
-</p>
-
-<!--
-Auto-updating, near-exact replica of your GitHub contribution calendar —
-month labels, weekday labels, legend, dark theme. Generated daily by
-.github/workflows/metrics.yml (see setup instructions below) using
-lowlighter/metrics, and committed straight into this repo as an SVG file,
-so it always reflects your real activity with no manual updates.
--->
 
 ---
 
