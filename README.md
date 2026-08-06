@@ -140,14 +140,20 @@ Built for and deployed at BigBuddy Foundation.
 
 ---
 
-## Contribution Snake
+## LeetCode Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://leetcard.jacoblin.cool/AdityaWagh06?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
-<!-- To activate the snake: create .github/workflows/snake.yml in this repo.
-See https://github.com/Platane/snk for setup instructions. -->
+<!--
+Replace "AdityaWagh06" above with your actual LeetCode username (it may differ
+from your GitHub username). This card is generated live from an image API on
+every page load — no workflow, no cron job, nothing that can silently stop
+running. If you'd rather use a different provider, leetcode-stats-card by
+JoshiSaurabh or the streak-stats variant at leetcode.card work as drop-in
+alternatives with the same "always live, never breaks" property.
+-->
 
 ---
 
