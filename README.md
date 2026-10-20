@@ -1,7 +1,7 @@
 <h1 align="center">Aditya Wagh</h1>
 
 <p align="center">
-  <strong>AI Engineer &amp; Full Stack Developer</strong><br/>
+  <strong>AI Engineer &amp; Full Stack Developer; Generative AI </strong><br/>
   I build intelligent systems that actually ship — NLP pipelines, GenAI apps, and full-stack products.<br/>
   Research Intern @ IIT Bombay (FOSSEE) &nbsp;|&nbsp; CSE (AI &amp; ML) @ VIIT Pune
 </p>
