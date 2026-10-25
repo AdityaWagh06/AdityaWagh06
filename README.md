@@ -195,7 +195,7 @@ through content-based recommendations.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./assets/contributions-2026.svg" alt="Aditya Wagh's GitHub contributions in 2026" />
+  <img src="https://streak-stats.demolab.com?user=AdityaWagh06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
