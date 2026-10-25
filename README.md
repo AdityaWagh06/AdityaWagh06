@@ -41,9 +41,14 @@
 ```python
 class AdityaWagh:
     role       = "AI Engineer & Full Stack Developer"
-    focus      = ["LLM apps", "RAG", "AI agents", "LLM evaluation", "Developer tools"]
-    building   = ["Veriflow", "NeuroCode AI"]
-    research   = "3 papers in IEEE Xplore"
+    focus      = ["LLM applications", "RAG pipelines", "AI agents & tool calling",
+                  "LLM evaluation", "AI developer tools"]
+    ai_stack   = ["Embeddings & semantic search", "Vector databases", "Reranking",
+                  "Prompt engineering", "Structured outputs", "Document AI & OCR",
+                  "NLP with Transformers", "Hugging Face"]
+    eng_stack  = ["Python", "FastAPI", "React", "REST APIs", "pytest", "Docker", "Git"]
+    building   = ["RAGBench", "Veriflow", "NeuroCode AI"]
+    research   = "4 papers: 3 published in IEEE Xplore, 1 accepted for publication"
     education  = "B.Tech CSE (AI & ML), VIIT Pune"
     learning   = "Deutsch (A2 → B1) 🇩🇪"
     philosophy = "If it isn't tested, it isn't done."
@@ -71,7 +76,7 @@ verifying what AI agents produce and making LLM apps reliable.
 
 **Co-founder — [Nailed It Bro](https://www.naileditbro.com/)** · *May 2026 – Present*
 Co-founded a digital solutions studio that builds websites, apps, AI automations and
-QR-based systems for businesses. I lead our LinkedIn presence and client growth.
+QR-based systems for businesses.
 
 **Research Intern — IIT Bombay, FOSSEE Project** · *Dec 2025 – Feb 2026*
 Contributed to **Osdag Bridge**, an open-source structural engineering platform
@@ -96,6 +101,17 @@ It also includes static security rules, dependency checks for hallucinated
 packages, and secret redaction.
 
 `Python` `Claude Code` `AI Agents` `Testing` `Security`
+
+---
+
+### [RAGBench](https://github.com/AdityaWagh06/RAGBench-RAG-Evaluation-Optimization-Framework) — RAG Evaluation & Optimization Framework &nbsp;![Status](https://img.shields.io/badge/status-currently%20building-orange?style=flat-square)
+Most RAG pipelines are tuned by gut feeling. RAGBench is meant to replace that with
+measurements: run chunking strategies, embedding models, rerankers and retrieval
+setups against the same fixed dataset, then compare retrieval precision/recall,
+ranking quality, context relevance and faithfulness in reproducible reports.
+It's designed local-first, so core evaluation runs without paid model APIs.
+
+`Python` `Sentence Transformers` `FAISS / ChromaDB` `FastAPI` `pytest` `LLM Evaluation`
 
 ---
 
