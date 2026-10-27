@@ -64,6 +64,7 @@ verifying what AI agents produce and making LLM apps reliable.
 ## 🏆 Highlights
 
 - 📄 **3 research papers published in IEEE Xplore** (NLP, AI agents, computer vision)
+- 🔀 **Merged PR to [openapi/gknowledge](https://github.com/openapi/gknowledge/pull/46)**: local Ollama model discovery, with mocked tests and privacy-safe defaults
 - 🌐 **Open-source contributor** to Osdag Bridge at IIT Bombay (FOSSEE)
 - 🚀 **Founded [OpenWave India](https://github.com/OpenWave-India)**, an open-source AI community
 - 🤝 **Co-founded [Nailed It Bro](https://www.naileditbro.com/)**, a studio building websites, apps, AI automations and QR systems for growing businesses
@@ -159,6 +160,17 @@ Summarizes news with BART and recommends articles based on user interests
 through content-based recommendations.
 
 `Python` `Hugging Face (BART)` `Flask` `React`
+
+---
+
+## 🌍 Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [openapi/gknowledge](https://github.com/openapi/gknowledge): GNOME app that turns documents into AI-assisted knowledge bases | [**#46: Detect a local Ollama server and offer its models**](https://github.com/openapi/gknowledge/pull/46). Adds a Detect button and model dropdown in Preferences. Discovery runs on a background thread with a 2 s timeout, only when the user clicks, and never sends document content. Covered by mocked tests for success, connection failures, timeouts and malformed responses. | ✅ Merged |
+| [Osdag Bridge](https://github.com/AdityaWagh06/OsdagBridge) (IIT Bombay, FOSSEE): open-source structural engineering software | Python / PySide6 modules for the bridge design workflow during my research internship | ✅ Contributed |
+
+`Python` `GTK 4 / Libadwaita` `Ollama` `Threading` `pytest + mocks` `PySide6`
 
 ---
 
