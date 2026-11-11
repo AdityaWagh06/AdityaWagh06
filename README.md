@@ -1,223 +1,232 @@
-<h1 align="center">Hi, I'm Aditya Wagh 👋</h1>
+# ADITYA WAGH
 
 <p align="center">
-  <strong>AI Engineer &amp; Full Stack Developer · Generative AI · LLM Apps · AI Agents</strong><br/>
-  I build intelligent systems that actually ship: LLM apps, AI agents, NLP pipelines and full-stack products.<br/>
-  Founder @ <a href="https://github.com/OpenWave-India">OpenWave India</a> &nbsp;|&nbsp; Co-founder @ <a href="https://www.naileditbro.com/">Nailed It Bro</a> &nbsp;|&nbsp; Ex-Research Intern @ IIT Bombay (FOSSEE)
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Intelligent+Systems;Exploring+Agentic+AI+%26+LLMs;Turning+Data+Into+Intelligence;Engineering+Reliable+AI" />
 </p>
 
 <p align="center">
-  <a href="https://adityawagh.online">
-    <img src="https://img.shields.io/badge/Portfolio-adityawagh.online-00F5FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/aditya-wagh25">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/adityawagh_94">
-    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:adityawagh2525@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <strong>AI ENGINEERING · APPLIED AI · DATA SCIENCE · GENERATIVE AI</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-AI%20Engineering%20Roles-brightgreen?style=for-the-badge"/>
-  <a href="https://github.com/OpenWave-India"><img src="https://img.shields.io/badge/Open%20Source-OpenWave%20India-FF9933?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://adityawagh.online">PORTFOLIO</a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/aditya-wagh25">LINKEDIN</a> &nbsp; / &nbsp;
+  <a href="https://x.com/adityawagh_94">X</a> &nbsp; / &nbsp;
+  <a href="mailto:adityawagh2525@gmail.com">EMAIL</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=LLM+Apps+%7C+RAG+%7C+AI+Agents;Making+AI+agents+prove+their+code+works;Building+code+intelligence+with+RAG;FastAPI+%7C+React+%7C+Python+%7C+Node.js;3+IEEE+Xplore+publications" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaWagh06&label=Profile+Views&color=00F5FF&style=flat"/>
+  <img src="https://img.shields.io/badge/OPEN_TO-AI%20%26%20DATA%20ROLES-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPEN_SOURCE-CONTRIBUTOR-16A34A?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 01 — PROFILE
 
-```python
-class AdityaWagh:
-    role       = "AI Engineer & Full Stack Developer"
-    focus      = ["LLM applications", "RAG pipelines", "AI agents & tool calling",
-                  "LLM evaluation", "AI developer tools"]
-    ai_stack   = ["Embeddings & semantic search", "Vector databases", "Reranking",
-                  "Prompt engineering", "Structured outputs", "Document AI & OCR",
-                  "NLP with Transformers", "Hugging Face"]
-    eng_stack  = ["Python", "FastAPI", "React", "REST APIs", "pytest", "Docker", "Git"]
-    building   = ["RAGBench", "Veriflow", "NeuroCode AI"]
-    research   = "4 papers: 3 published in IEEE Xplore, 1 accepted for publication"
-    education  = "B.Tech CSE (AI & ML), VIIT Pune"
-    learning   = "Deutsch (A2 → B1) 🇩🇪"
-    philosophy = "If it isn't tested, it isn't done."
-```
+I'm Aditya, an AI-focused engineer interested in building intelligent systems and solving real-world problems with data.
 
-I take AI from research to working software: LLM-powered applications, developer
-tools for AI coding agents, document-automation pipelines, and full-stack products
-used by real people. Lately I've been focused on the **hard parts of production AI**:
-verifying what AI agents produce and making LLM apps reliable.
+My interests span **AI Engineering, Applied AI, Data Science, Machine Learning, Generative AI and LLM systems.**
+
+I enjoy experimenting with new technologies, building practical solutions and contributing to projects that make AI more useful and reliable.
+
+**Currently preparing for:** MSc Computer Science — University of Stuttgart, April 2027 intake.
 
 ---
 
-## 🏆 Highlights
+## 02 — AREAS OF FOCUS
 
-- 📄 **3 research papers published in IEEE Xplore** (NLP, AI agents, computer vision)
-- 🔀 **2 PRs merged in [claude-seo](https://github.com/AgriciDaniel/claude-seo) (28K★)**, an AI agent SEO toolkit for Claude Code: faster validation hook and clearer schema guidance, with regression tests
-- 🔀 **Merged PR to [openapi/gknowledge](https://github.com/openapi/gknowledge/pull/46)**: local Ollama model discovery, with mocked tests and privacy-safe defaults
-- 🌐 **Open-source contributor** to Osdag Bridge at IIT Bombay (FOSSEE)
-- 🚀 **Founded [OpenWave India](https://github.com/OpenWave-India)**, an open-source AI community
-- 🤝 **Co-founded [Nailed It Bro](https://www.naileditbro.com/)**, a studio building websites, apps, AI automations and QR systems for growing businesses
-- ⚙️ Shipped an OCR + LLM automation that cut manual document processing by **~70%**
-- 🎓 **B.Tech CSE (AI & ML)**, VIIT Pune, CGPA 8.42
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**AI & INTELLIGENCE**
 
-## 💼 Experience
+- Applied AI
+- Agentic AI
+- Generative AI
+- Machine Learning
+- LLM Engineering
 
-**Co-founder — [Nailed It Bro](https://www.naileditbro.com/)** · *May 2026 – Present*
-Co-founded a digital solutions studio that builds websites, apps, AI automations and
-QR-based systems for businesses.
+</td>
+<td width="50%" valign="top">
 
-**Research Intern — IIT Bombay, FOSSEE Project** · *Dec 2025 – Feb 2026*
-Contributed to **Osdag Bridge**, an open-source structural engineering platform
-used by institutions across India. Built and improved Python (PySide6) modules
-for functionality, usability and maintainability.
+**DATA & RETRIEVAL**
 
-**Project Developer Intern — BigBuddy Foundation** · *Jan 2025 – Jun 2025*
-Built an OCR-to-Excel automation with Tesseract and OpenAI LLMs that cut manual
-document processing by ~70%. Built the A to Z Education platform (see below):
-a full product with payments, auth and an admin dashboard.
+- Data Science
+- Natural Language Processing
+- RAG architectures
+- Embeddings & Vector Search
+- LLM Evaluation
 
----
-
-## 🚀 Featured Projects
-
-### [Veriflow](https://github.com/OpenWave-India/veriflow) — Verification Skill for AI Coding Agents
-AI agents often claim "done" when tests are broken. Veriflow makes them check.
-It finds a project's real test, lint, type-check and build commands, runs them
-only on opt-in, turns failures into structured diagnostics, caps repairs at 3
-attempts, and reports `PASS` / `FAIL` / `BLOCKED` / `UNKNOWN` honestly.
-It also includes static security rules, dependency checks for hallucinated
-packages, and secret redaction.
-
-`Python` `Claude Code` `AI Agents` `Testing` `Security`
+</td>
+</tr>
+</table>
 
 ---
 
-### [RAGBench](https://github.com/AdityaWagh06/RAGBench-RAG-Evaluation-Optimization-Framework) — RAG Evaluation & Optimization Framework &nbsp;![Status](https://img.shields.io/badge/status-currently%20building-orange?style=flat-square)
-Most RAG pipelines are tuned by gut feeling. RAGBench is meant to replace that with
-measurements: run chunking strategies, embedding models, rerankers and retrieval
-setups against the same fixed dataset, then compare retrieval precision/recall,
-ranking quality, context relevance and faithfulness in reproducible reports.
-It's designed local-first, so core evaluation runs without paid model APIs.
+## 03 — SELECTED WORK
 
-`Python` `Sentence Transformers` `FAISS / ChromaDB` `FastAPI` `pytest` `LLM Evaluation`
+<p align="center">
+  <sub>IDEAS → EXPERIMENTS → ENGINEERED SYSTEMS</sub>
+</p>
 
----
+### 01 / VERIFLOW
+**Making AI coding agents verify their own work.**
 
-### [DocExtract Pro](https://github.com/AdityaWagh06/Document-to-Excel) — AI Invoice Extraction for Indian GST
-Reads GST invoices (PDF or photo) and extracts vendor, GSTIN, line items and
-tax totals. It validates GSTIN checksums and tax maths, adds a human review
-step, and exports to Excel, CSV or Tally XML. Invoices can also arrive via
-WhatsApp. LLM values not found in the source text are flagged rather than trusted.
+[VIEW REPOSITORY ↗](https://github.com/OpenWave-India/veriflow)
 
-`Python` `Flask` `React` `OpenAI Structured Outputs` `PaddleOCR` `Docker`
+A verification skill for AI coding agents that discovers project checks, executes them with user opt-in, interprets failures and reports results honestly.
+
+`PYTHON` `CLAUDE CODE` `AI AGENTS` `TESTING` `SECURITY`
 
 ---
 
-### [A to Z Education](https://github.com/AdityaWagh06/A-to-Z-Education-) — Full-Stack EdTech Platform
-**Live at [atozeducation.study](https://atozeducation.study)**
+### 02 / RAGBENCH
+**Measuring what actually makes RAG better.**
 
-A production EdTech platform built for real students, with a complete admin
-dashboard, video lesson player, PDF test system, and payment integration.
-Features Google OAuth, Razorpay payments, a distraction-free custom video player,
-drag-and-drop content uploads, and dynamic class/subject management.
+[VIEW REPOSITORY ↗](https://github.com/AdityaWagh06/RAGBench-RAG-Evaluation-Optimization-Framework)
 
-`React (Vite)` `Node.js` `Express` `Supabase (PostgreSQL)` `Razorpay` `Google OAuth` `TailwindCSS`
+An evaluation framework for comparing chunking strategies, embedding models, rerankers and retrieval configurations through reproducible experiments.
 
----
+`RAG` `EMBEDDINGS` `FAISS` `CHROMADB` `EVALUATION`
 
-### [NeuroQuery](https://github.com/AdityaWagh06/Neuroquery-ai-query-assistant) — NL-to-SQL AI Assistant
-Converts plain-English or voice questions into SQL queries, making databases
-accessible without SQL knowledge. Reached **96% intent-classification accuracy**
-in its reported evaluation.
-
-`Python` `Scikit-learn` `Flask` `React`
+<sub>IN DEVELOPMENT</sub>
 
 ---
 
-### [NeuroCode AI](https://github.com/AdityaWagh06/neurocode-ai) — Code Intelligence for Repositories *(in progress)*
-Parses repositories with Tree-sitter and ASTs to extract code structure, as the
-foundation for semantic code search and repository-aware Q&A.
+### 03 / DOCEXTRACT PRO
+**Turning unstructured invoices into validated data.**
 
-`Python` `Tree-sitter` `uv`
+[VIEW REPOSITORY ↗](https://github.com/AdityaWagh06/Document-to-Excel)
 
----
+An AI-powered invoice extraction system with OCR, structured outputs, GST validation and human review.
 
-### [NewsGenie](https://github.com/AdityaWagh06/News-genie) — Personalized News Summarizer
-Summarizes news with BART and recommends articles based on user interests
-through content-based recommendations.
-
-`Python` `Hugging Face (BART)` `Flask` `React`
+`DOCUMENT AI` `OCR` `LLMs` `PYTHON` `REACT`
 
 ---
 
-## 🌍 Open Source Contributions
+### 04 / NEUROQUERY
+**Natural language meets databases.**
 
-| Project | Contribution | Status |
+[VIEW REPOSITORY ↗](https://github.com/AdityaWagh06/Neuroquery-ai-query-assistant)
+
+An NL-to-SQL assistant that converts text and voice questions into SQL queries. Achieved 96% intent-classification accuracy in its reported evaluation.
+
+`NLP` `MACHINE LEARNING` `SQL` `PYTHON`
+
+---
+
+### 05 / NEUROCODE AI
+**Understanding codebases beyond individual files.**
+
+[VIEW REPOSITORY ↗](https://github.com/AdityaWagh06/neurocode-ai)
+
+Repository intelligence using Tree-sitter and AST parsing, laying the foundation for semantic code search and repository-aware Q&A.
+
+`CODE INTELLIGENCE` `AST` `TREE-SITTER` `PYTHON`
+
+<sub>IN DEVELOPMENT</sub>
+
+---
+
+### 06 / A TO Z EDUCATION
+**A learning platform built for real students.**
+
+[VISIT LIVE PLATFORM ↗](https://atozeducation.study) · [SOURCE CODE ↗](https://github.com/AdityaWagh06/A-to-Z-Education-)
+
+A full-stack education platform featuring payments, authentication, video lessons, tests and an administration dashboard.
+
+`REACT` `NODE.JS` `SUPABASE` `RAZORPAY`
+
+---
+
+## 04 — OPEN SOURCE
+
+**Building beyond my own repositories.**
+
+| Project | Contribution | Result |
 |---|---|---|
-| [openapi/gknowledge](https://github.com/openapi/gknowledge): GNOME app that turns documents into AI-assisted knowledge bases | [**#46: Detect a local Ollama server and offer its models**](https://github.com/openapi/gknowledge/pull/46). Adds a Detect button and model dropdown in Preferences. Discovery runs on a background thread with a 2 s timeout, only when the user clicks, and never sends document content. Covered by mocked tests for success, connection failures, timeouts and malformed responses. | ✅ Merged |
-| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) (28K★): open-source SEO toolkit for Claude Code with 26 skills and 19 sub-agents | [**#414: Skip the Python probe for files that cannot hold JSON-LD**](https://github.com/AgriciDaniel/claude-seo/pull/414). The schema-validation hook used to start a Python interpreter after every file edit. The Node.js launcher now exits early for file types that can't contain schema, with pytest regression tests that keep its extension list in sync with the Python validator.<br>[**#413: Link the deprecated-types reference from the schema skill**](https://github.com/AgriciDaniel/claude-seo/pull/413). The agent now recommends the active replacement type instead of only flagging a deprecated one. | ✅ Merged (2) |
-| [Osdag Bridge](https://github.com/AdityaWagh06/OsdagBridge) (IIT Bombay, FOSSEE): open-source structural engineering software | Python / PySide6 modules for the bridge design workflow during my research internship | ✅ Contributed |
-
-`Python` `Node.js` `Claude Code hooks & skills` `GTK 4 / Libadwaita` `Ollama` `Threading` `pytest + mocks` `PySide6`
-
----
-
-## 📄 Publications
-
-| Paper | Venue |
-|---|---|
-| Contextual Filler Word Detection using BERT and Prosodic Features | ICCUBEA 2025 · IEEE Xplore |
-| AI Agent for Scientific Paper Analysis | INSPECT 2025 · IEEE Xplore |
-| Robust Facial Expression Recognition with VGG16 | APCIT 2025 · IEEE Xplore |
-| Bridging the Language Gap: Open-Source Chatbots for Indian Languages | ICRRAI 2025 · Accepted |
-
----
-
-## 🛠️ Stack
+| [Claude SEO](https://github.com/AgriciDaniel/claude-seo) | [#414](https://github.com/AgriciDaniel/claude-seo/pull/414) — Faster schema-validation hook | MERGED |
+| [Claude SEO](https://github.com/AgriciDaniel/claude-seo) | [#413](https://github.com/AgriciDaniel/claude-seo/pull/413) — Improved deprecated schema guidance | MERGED |
+| [openapi/gknowledge](https://github.com/openapi/gknowledge) | [#46](https://github.com/openapi/gknowledge/pull/46) — Local Ollama model discovery | MERGED |
+| Osdag Bridge | Python / PySide6 contributions through IIT Bombay FOSSEE | CONTRIBUTOR |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,flask,react,nodejs,express,js,ts,tailwind&perline=9" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,mongodb,postgres,supabase,sqlite,docker,git,linux&perline=9" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings%20%26%20Vector%20Search-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLAUDE%20SEO-02%20MERGED%20PRs-16A34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GKNOWLEDGE-01%20MERGED%20PR-16A34A?style=flat-square"/>
 </p>
 
 ---
 
-## 📊 GitHub Activity
+## 05 — RESEARCH
+
+**3 research papers published in IEEE Xplore.**
+
+Research across NLP, AI agents, computer vision and Indian-language chatbots.
+
+---
+
+## 06 — TECHNOLOGY
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AdityaWagh06&theme=tokyonight&hide_border=true" />
+  <strong>LANGUAGES & FRAMEWORKS</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,fastapi,flask,react,nodejs,express&perline=5"/>
+</p>
+
+<p align="center">
+  <strong>AI, DATA & INFRASTRUCTURE</strong><br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,postgres,mongodb,supabase,sqlite,docker,git,linux&perline=5"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20ENGINEERING-412991?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%20AGENTS-8A2BE2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DATA%20SCIENCE-16A34A?style=flat-square"/>
 </p>
 
 ---
 
-## 💬 Ask Me About
-
-`RAG pipelines` · `AI coding agents` · `LLM evaluation` · `Document automation` · `FastAPI + React products` · `Open source in India`
+## 07 — GITHUB ACTIVITY
 
 <p align="center">
-  <em>Open to AI engineering roles and collaborations on open-source AI. Let's build something.</em>
+  <img width="75%" src="https://streak-stats.demolab.com?user=AdityaWagh06&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 08 — OPENWAVE INDIA
+
+**An Open Foundation for AI Innovation.**
+
+[EXPLORE COMMUNITY ↗](https://github.com/OpenWave-India)
+
+Founded OpenWave India to encourage practical open-source AI development, collaboration and experimentation.
+
+Building a community around AI tools, agent skills, RAG systems and accessible AI projects.
+
+---
+
+## 09 — WHAT'S NEXT
+
+I'm looking to contribute to meaningful work across:
+
+**AI Engineering / Applied AI / Data Science / Machine Learning / Generative AI / LLM Engineering**
+
+I'm equally open to unfamiliar technologies and new domains. I enjoy learning, adapting and taking on challenging problems.
+
+<p align="center">
+  <strong>INTERESTED IN BUILDING SOMETHING MEANINGFUL?</strong><br/><br/>
+  <a href="https://linkedin.com/in/aditya-wagh25">
+    <img src="https://img.shields.io/badge/LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://adityawagh.online">
+    <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>CURIOUS BY NATURE. ENGINEERED THROUGH EXPERIMENTATION.</sub>
 </p>
